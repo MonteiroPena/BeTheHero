@@ -1,7 +1,5 @@
 # BeTheHero
 <i>Application in: reactJS front-end, Mobile react-native and NodeJS back-end</i>
-
-<h1>Be The Hero</h1>
 <i><h3>Semana 11 Omnistack</h3></i>
 <br>
 <p>Back-end em NODE.JS</p>
